@@ -1,0 +1,2 @@
+React trabaja con JavaScript. jsx es una extensión de sintaxis para JavaScript que permite escribir 
+código similar a HTML, combinando lógica y marcando visualmente.
