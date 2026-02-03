@@ -1,0 +1,16 @@
+.projects-container {
+    display: flex;
+    gap: 2rem;
+    margin-top: 2rem;
+}
+
+@media (max-width: 768px) {
+    .projects-container {
+        flex-direction: column;
+    }
+}
+
+.loading {
+    font-size: 1.2rem;
+    color: #888;
+}
